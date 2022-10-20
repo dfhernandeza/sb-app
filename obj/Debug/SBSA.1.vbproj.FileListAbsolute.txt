@@ -1,0 +1,282 @@
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe.config
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.pdb
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.xml
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\bin\Debug\stdole.dll
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\SBSA.1.vbproj.ResolveComReference.cache
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Caja.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Clientes.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Compras.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Cotizacion.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Cotizaciones.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.DetalleCompras.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.DetalleVentas.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.EditarItem.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Efectivo.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.EntradaManual.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.EliminarItem.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.CotManual.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.facturas.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.FactoBoleta.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Compra.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Graficos.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Informe.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Indicadores.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Informediario.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Intervalo.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Inventariar.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Mediopago.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Inventario.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Ingreso.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Mes.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.NuevoProveedor.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Principal.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Registro_Inventario.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.RegistrodelInventario.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Semana.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Ventas.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.NuevoItem.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.NuevoStock.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.NuevoCliente.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Trabajos.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.PuntoVenta.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\SBSA.1.vbproj.GenerateResource.cache
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.exe.licenses
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\SBSA.1.vbproj.CoreCompileInputs.cache
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\SBSA.1.vbproj.CopyComplete
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.exe
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.xml
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.pdb
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.VerCliente.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.CostoServicios.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.VentaRapida.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.VentaManual.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.EfectivoRapido.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.FacturaoBoleta.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.FacturaRapida.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.MedioPagoRapido.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Observaciones.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Tareas.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Programar.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Recursos.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.ReservarElevador.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.CotizacionesPendientes.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Precios.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\SBSA.1.vbprojAssemblyReference.cache
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.PagoMixto.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Impresion.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\bin\Debug\ClasesLibreria.dll
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\bin\Debug\ClasesLibreria.pdb
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\bin\Debug\ClasesLibreria.xml
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Descuento.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Traspasos.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Rendicion.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.NuevoItemRendicion.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Personalform.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.NuevoEmpleado.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.VerVehiculoForm.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Proveedores.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.prueba.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.CotiNeumaticos.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.NeumaticoManual.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.PedidosNeumaticos.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.CambioEstado.resources
+C:\Users\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.ActualizarMecanico.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\SBSA.1.vbproj.AssemblyReference.cache
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\SBSA.1.vbproj.ResolveComReference.cache
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.ActualizarMecanico.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Caja.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.CambioEstado.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Clientes.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Compras.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.CostoServicios.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.CotiNeumaticos.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Cotizacion.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Cotizaciones.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.CotizacionesPendientes.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Descuento.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.DetalleCompras.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.DetalleVentas.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.EditarItem.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Efectivo.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.EfectivoRapido.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.EntradaManual.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.EliminarItem.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.CotManual.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.FacturaoBoleta.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.FacturaRapida.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.facturas.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.FactoBoleta.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Compra.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Graficos.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Impresion.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Informe.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Indicadores.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Informediario.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Intervalo.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Inventariar.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Mediopago.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Inventario.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Ingreso.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.MedioPagoRapido.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Mes.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.NeumaticoManual.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.NuevoEmpleado.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.NuevoItemRendicion.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.NuevoProveedor.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Observaciones.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.PagoMixto.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.PedidosNeumaticos.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Personalform.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Precios.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Principal.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Programar.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Proveedores.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.prueba.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Recursos.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Registro_Inventario.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.RegistrodelInventario.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Rendicion.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.ReservarElevador.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Semana.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Tareas.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Traspasos.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.VentaManual.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.VentaRapida.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Ventas.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.NuevoItem.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.NuevoStock.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.NuevoCliente.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Trabajos.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.PuntoVenta.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.VerCliente.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.VerVehiculoForm.resources
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\SBSA.1.vbproj.GenerateResource.cache
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.exe.licenses
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.exe
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.xml
+D:\Respaldo\David Hernandez\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.pdb
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\SBSA.1.vbproj.AssemblyReference.cache
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\SBSA.1.vbproj.ResolveComReference.cache
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.ActualizarMecanico.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Caja.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.CambioEstado.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Clientes.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Compras.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.CostoServicios.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.CotiNeumaticos.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Cotizacion.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Cotizaciones.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.CotizacionesPendientes.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Descuento.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.DetalleCompras.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.DetalleVentas.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.EditarItem.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Efectivo.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.EfectivoRapido.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.EntradaManual.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.EliminarItem.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.CotManual.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.FacturaoBoleta.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.FacturaRapida.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.facturas.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.FactoBoleta.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Compra.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Graficos.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Impresion.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Informe.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Indicadores.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Informediario.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Intervalo.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Inventariar.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Mediopago.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Inventario.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Ingreso.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.MedioPagoRapido.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Mes.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.NeumaticoManual.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.NuevoEmpleado.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.NuevoItemRendicion.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.NuevoProveedor.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Observaciones.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.PagoMixto.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.PedidosNeumaticos.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Personalform.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Precios.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Principal.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Programar.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Proveedores.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.prueba.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Recursos.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Registro_Inventario.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.RegistrodelInventario.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Rendicion.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.ReservarElevador.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Semana.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Tareas.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Traspasos.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.VentaManual.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.VentaRapida.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Ventas.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.NuevoItem.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.NuevoStock.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.NuevoCliente.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Trabajos.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.PuntoVenta.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.VerCliente.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.VerVehiculoForm.resources
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\SBSA.1.vbproj.GenerateResource.cache
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.exe.licenses
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.exe
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.xml
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.pdb
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe.config
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.pdb
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.xml
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\bin\Debug\ClasesLibreria.dll
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\bin\Debug\stdole.dll
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\bin\Debug\ClasesLibreria.pdb
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\bin\Debug\ClasesLibreria.xml
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\SBSA.1.vbproj.CoreCompileInputs.cache
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\SBSA.1.vbproj.CopyComplete
+C:\Users\davhe\Documents\WindowsApp3\WindowsApp3\obj\Debug\SBSA.1.vbproj.SuggestedBindingRedirects.cache
